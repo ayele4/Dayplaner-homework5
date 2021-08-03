@@ -25,5 +25,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-# DEPLOYED
+# Deployed
 https://ayele4.github.io/Dayplaner-homework5/
