@@ -1,6 +1,6 @@
 # Dayplaner-homework5
 
-<img width="1408" alt="Screen Shot 2021-08-23 at 6 58 07 PM" src="https://user-images.githubusercontent.com/84227686/130559812-246704a9-3778-4500-a42c-fd746b47de0e.png">
+<img width="1440" alt="Screen Shot 2021-08-23 at 10 20 25 PM" src="https://user-images.githubusercontent.com/84227686/130560322-501c42e5-2d04-4705-91d8-1d04eae129b2.png">
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
